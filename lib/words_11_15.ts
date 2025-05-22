@@ -33,7 +33,7 @@ export const words_11_15: Word[] = [
   { kanji: "食事", hiragana: "しょくじ", meaning: "식사" },
   { kanji: "消しゴム", hiragana: "けしごむ", meaning: "지우개" },
   { kanji: "箱", hiragana: "はこ", meaning: "상자" },
-  { kanji: "通り", hiragana: "よおり", meaning: "길, 통함, 종류, 방법" },
+  { kanji: "通り", hiragana: "とおり", meaning: "길, 통함, 종류, 방법" },
   { kanji: "注意", hiragana: "ちゅうい", meaning: "주의" },
   { kanji: "ひと月", hiragana: "ひとつき", meaning: "한 달, 1개월" },
   { kanji: "必要", hiragana: "ひつよう", meaning: "필요" },
