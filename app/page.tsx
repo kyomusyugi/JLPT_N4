@@ -4,12 +4,14 @@ import { useState } from "react";
 import { words_01_05 } from "@/lib/words_01_05";
 import { words_06_10 } from "@/lib/words_06_10";
 import { words_11_15 } from "@/lib/words_11_15";
+import { words_16_20 } from "@/lib/words_16_20";
 import QuizPage from "@/components/quizpage";
 
 const units = {
   "Unit 01~05": words_01_05,
   "Unit 06~10": words_06_10,
   "Unit 11~15": words_11_15,
+  "Unit 16~20": words_16_20,
 };
 
 export default function HomePage() {
