@@ -6,6 +6,7 @@ import { words_06_10 } from "@/lib/words_06_10";
 import { words_11_15 } from "@/lib/words_11_15";
 import { words_16_20 } from "@/lib/words_16_20";
 import { words_21_25 } from "@/lib/words_21_25";
+import { words_26_30 } from "@/lib/words_26_30";
 import QuizPage from "@/components/quizpage";
 
 const units = {
@@ -14,6 +15,7 @@ const units = {
   "Unit 11~15": words_11_15,
   "Unit 16~20": words_16_20,
   "Unit 21~25": words_21_25,
+  "Unit 26~30": words_26_30,
 };
 
 export default function HomePage() {
