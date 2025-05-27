@@ -73,7 +73,7 @@ export const words_31_35: Word[] = [
   { kanji: "集める", hiragana: "あつめる", meaning: "모으다" },
   { kanji: "考える", hiragana: "かんがえる", meaning: "생각하다" },
   { kanji: "十", hiragana: "とお", meaning: "열, 10, 열 살" },
-  { kanji: "伺う", hiragana: "うかがう", meaning: "가다, 오다, 듣다, 묻다, 방문하다" },
+  { kanji: "伺う", hiragana: "うかがう", meaning: "찾다, 듣다, 묻다, 방문하다" },
   { kanji: "嬉しい", hiragana: "うれしい", meaning: "기쁘다" },
   { kanji: "やはり", hiragana: "", meaning: "역시" },
   { kanji: "包む", hiragana: "つつむ", meaning: "싸다, 포장하다" },
