@@ -1,0 +1,55 @@
+// lib/words_46_48.ts
+
+export type Word = {
+  kanji: string;
+  hiragana: string;
+  meaning: string;
+};
+
+export const words_46_48: Word[] = [
+  { kanji: "警察", hiragana: "けいさつ", meaning: "경찰" },
+  { kanji: "パーティー", hiragana: "", meaning: "파티" },
+  { kanji: "悲しい", hiragana: "かなしい", meaning: "슬프다, 애처롭다" },
+  { kanji: "行く", hiragana: "いく", meaning: "가다" },
+  { kanji: "文書", hiragana: "ぶんしょ", meaning: "문서" },
+  { kanji: "旅行", hiragana: "りょこう", meaning: "여행" },
+  { kanji: "父親", hiragana: "ちちおや", meaning: "부친" },
+  { kanji: "以内", hiragana: "いない", meaning: "~이내, 이내" },
+  { kanji: "ヶ月", hiragana: "かげつ", meaning: "~개월, 개월" },
+  { kanji: "石", hiragana: "いし", meaning: "돌, 바위" },
+  { kanji: "広さ", hiragana: "ひろさ", meaning: "넓이" },
+  { kanji: "危険", hiragana: "きけん", meaning: "위험" },
+  { kanji: "以外", hiragana: "いがい", meaning: "이외" },
+  { kanji: "若い", hiragana: "わかい", meaning: "젊다, 어리다" },
+  { kanji: "昔", hiragana: "むかし", meaning: "옛날, 예전" },
+  { kanji: "間", hiragana: "あいだ", meaning: "사이, 간격, 틈, ~동안" },
+  { kanji: "初めて", hiragana: "はじめて", meaning: "처음, 비로소, 첫 번째" },
+  { kanji: "おじ", hiragana: "", meaning: "삼촌" },
+  { kanji: "冷える", hiragana: "ひえる", meaning: "차가워지다, 식다, 냉담해지다" },
+  { kanji: "下がる", hiragana: "さがる", meaning: "내려가다, 떨어지다" },
+  { kanji: "星", hiragana: "ほし", meaning: "별" },
+  { kanji: "水泳", hiragana: "すいえい", meaning: "수영" },
+  { kanji: "準備", hiragana: "じゅんび", meaning: "준비" },
+  { kanji: "冷房", hiragana: "れいぼう", meaning: "냉방" },
+  { kanji: "番組", hiragana: "ばんぐみ", meaning: "방송, 프로그램" },
+  { kanji: "鳴る", hiragana: "なる", meaning: "울리다, 소리가 나다, 떨치다" },
+  { kanji: "別", hiragana: "べつ", meaning: "구별, 차이, 다름" },
+  { kanji: "近所", hiragana: "きんじょ", meaning: "근처" },
+  { kanji: "茶碗", hiragana: "ちゃわん", meaning: "찻종, 밥공기" },
+  { kanji: "故障", hiragana: "こしょう", meaning: "고장" },
+  { kanji: "コンピューター", hiragana: "", meaning: "컴퓨터" },
+  { kanji: "八つ", hiragana: "やっつ", meaning: "여덟개, 8개" },
+  { kanji: "泥棒", hiragana: "どろぼう", meaning: "도둑질, 도둑" },
+  { kanji: "差し上げる", hiragana: "さしあげる", meaning: "들어 올리다, ~해 드리다" },
+  { kanji: "知らせる", hiragana: "しらせる", meaning: "알리다, 통지하다, 통보하다" },
+  { kanji: "宜しい", hiragana: "よろしい", meaning: "좋다" },
+  { kanji: "本気", hiragana: "ほんき", meaning: "진심" },
+  { kanji: "捕まえる", hiragana: "つかまえる", meaning: "붙잡다, 붙들다" },
+  { kanji: "格好", hiragana: "かっこう", meaning: "모습, 꼴" },
+  { kanji: "張る", hiragana: "はる", meaning: "뻗다, 뻗어나다" },
+  { kanji: "下手", hiragana: "へた", meaning: "서투름, 어중간함, 어설픔" },
+  { kanji: "細い", hiragana: "ほそい", meaning: "가늘다, 좁다" },
+  { kanji: "願う", hiragana: "ねがう", meaning: "원하다, 바라다" },
+  { kanji: "苦い", hiragana: "にがい", meaning: "쓰다, 씁쓸하다" },
+  { kanji: "年", hiragana: "ねん", meaning: "년, 해, 한 해" },
+];
