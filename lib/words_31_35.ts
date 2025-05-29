@@ -14,7 +14,7 @@ export const words_31_35: Word[] = [
   { kanji: "ジュース", hiragana: "", meaning: "주스, 쥬스" },
   { kanji: "原因", hiragana: "げんいん", meaning: "원인" },
   { kanji: "関係", hiragana: "かんけい", meaning: "관계" },
-  { kanji: "無くなる", hiragana: "なくなる", meaning: "없어지다, 죽다" },
+  { kanji: "無くなる", hiragana: "なくなる", meaning: "없어지다" },
   { kanji: "方", hiragana: "かた", meaning: "쪽, 편, 방향, 분" },
   { kanji: "会", hiragana: "かい", meaning: "모임, 회" },
   { kanji: "約束", hiragana: "やくそく", meaning: "약속" },
