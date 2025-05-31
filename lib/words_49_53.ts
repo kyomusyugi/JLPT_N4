@@ -28,7 +28,7 @@ export const words_49_53: Word[] = [
   { kanji: "動く", hiragana: "うごく", meaning: "움직이다, 작동하다" },
   { kanji: "グラム", hiragana: "", meaning: "그램" },
   { kanji: "特に", hiragana: "とくに", meaning: "특히, 특별히" },
-  { kanji: "空く", hiragana: "すく", meaning: "틈이 나다, 짬이 나다, 속이 비다" },
+  { kanji: "空く", hiragana: "すく", meaning: "비다, 비어 있다, 열리다, 한가하다" },
   { kanji: "積もる", hiragana: "つもる", meaning: "쌓이다" },
   { kanji: "郵便局", hiragana: "ゆうびんきょく", meaning: "우체국" },
   { kanji: "立派", hiragana: "りっぱ", meaning: "훌륭함" },
