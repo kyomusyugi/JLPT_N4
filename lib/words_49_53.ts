@@ -9,7 +9,7 @@ export type Word = {
 export const words_49_53: Word[] = [
   { kanji: "字引", hiragana: "じびき", meaning: "옥편, 사전" },
   { kanji: "落とす", hiragana: "おとす", meaning: "떨어뜨리다, 놓치다" },
-  { kanji: "縦", hiragana: "たて", meaning: "새로" },
+  { kanji: "縦", hiragana: "たて", meaning: "세로" },
   { kanji: "特急", hiragana: "とっきゅう", meaning: "특급" },
   { kanji: "放送", hiragana: "ほうそう", meaning: "방송" },
   { kanji: "生産", hiragana: "せいさん", meaning: "생산" },
