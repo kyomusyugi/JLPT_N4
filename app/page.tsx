@@ -12,6 +12,7 @@ import { words_36_40 } from "@/lib/words_36_40";
 import { words_41_45 } from "@/lib/words_41_45";
 import { words_46_48 } from "@/lib/words_46_48";
 import { words_49_53 } from "@/lib/words_49_53";
+import { words_54_58 } from "@/lib/words_54_58";
 import QuizPage from "@/components/quizpage";
 
 const units = {
@@ -26,6 +27,7 @@ const units = {
   "Unit 41~45": words_41_45,
   "Unit 46~48": words_46_48,
   "Unit 49~53": words_49_53,
+  "Unit 54~58": words_54_58,
 };
 
 export default function HomePage() {
